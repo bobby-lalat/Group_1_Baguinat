@@ -1,3 +1,7 @@
+Individual contribution: Attendance module
+- Pull request: https://github.com/fjbaguinat-ux/Group_1_Baguinat/pull/3
+- Files: AttendanceController.php, Attendance.php, attendance migration, resources/views/attendance/*
+
 # spamast-ssg-system
 
 > Laravel web app with registration, events, attendance, sanctions and login.
